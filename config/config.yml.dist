@@ -1,0 +1,4 @@
+config:
+        api_foo: ~
+        api_secret: ~
+        api_token: ~
